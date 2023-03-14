@@ -1,0 +1,2 @@
+Writing this text through 'Vim' command in Android Termux.
+
